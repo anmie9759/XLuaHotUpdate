@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XLuaHotUpdate", "Assembly-CSharp.csproj", "{0ED7EE8A-52BD-3674-7128-6A65FC62C3F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XLuaHotUpdate", "Assembly-CSharp-Editor.csproj", "{38531060-5F5F-22AB-DABB-1EEB1A0765DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{0ED7EE8A-52BD-3674-7128-6A65FC62C3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0ED7EE8A-52BD-3674-7128-6A65FC62C3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0ED7EE8A-52BD-3674-7128-6A65FC62C3F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38531060-5F5F-22AB-DABB-1EEB1A0765DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38531060-5F5F-22AB-DABB-1EEB1A0765DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38531060-5F5F-22AB-DABB-1EEB1A0765DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38531060-5F5F-22AB-DABB-1EEB1A0765DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
